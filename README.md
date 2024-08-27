@@ -17,7 +17,7 @@ Descifrado de Texto: Permite recuperar el texto original a partir del formato en
 Interfaz de Usuario: Proporciona una interfaz amigable para interactuar con las funcionalidades de 
 encriptación y desencriptación.
 
-<h1>Habilidades Desarrolladas<h1/> 
+<h1>Habilidades Desarrolladas <h1/> 
 
 Este proyecto pone a prueba y desarrolla una variedad de habilidades esenciales:
 
