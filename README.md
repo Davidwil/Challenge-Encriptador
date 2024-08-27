@@ -2,7 +2,7 @@
 
 Este proyecto pone a prueba y desarrolla una variedad de habilidades esenciales:
 
-<h2>Descripción del Proyecto<h2/>
+Descripción del Proyecto
 
 El Encriptador de Texto es una aplicación diseñada para cifrar y descifrar mensajes de manera segura.
 Este proyecto se centra en la implementación de algoritmos de encriptación que permiten transformar 
